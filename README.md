@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bala chandrudu</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/linkdn-banner.png"> </div>
+<div align="center"> <img src="https://github.com/truebala/mine/blob/main/github-header-image.png"> </div>
 <h3 align="center">A passionate engineer from India.I work in a corporate anc</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devScopsBala&label=Profile%20views&color=0e75b6&style=flat" alt="devScopsbala" /> </p>
 
 - 🔭 I’m currently working on [e-commerce-project](https://github.com/truebala/E-Commerce.git)
 
