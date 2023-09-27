@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bala chandrudu</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/linkdn-banner.png"> </div>
+<div align="center"> <img src="https://github.com/truebala/mine/blob/main/github-header-image.png"> </div>
 <h3 align="center">A passionate engineer from India.I work in a corporate anc</h3>
 
 - 🔭 I’m currently working on [e-commerce-project](https://github.com/truebala/E-Commerce.git)
