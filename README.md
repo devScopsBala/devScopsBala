@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bala chandrudu</h1>
-<div align="center"> <img src="https://cdn.educba.com/academy/wp-content/uploads/2019/11/DevOps-Engineer.jpg"> </div>
+<div align="center"> <img src="https://cdn.educba.com/academy/wp-content/uploads/2019/11/DevOps-Engineer.jpg"> height="200" width="600" </div>
 <h3 align="center">A passionate software engineer from India.I work in a corporate anc</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
