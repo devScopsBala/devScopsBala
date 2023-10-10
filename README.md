@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bala chandrudu</h1>
-<div align="center" <img src="https://github.com/devScopsBala/devScopsBala/blob/main/github-header-image%20(2).png"/> </div>
-
+<img align="center" src="C:\Users\DELL\Downloads\github-header-image (2).png />
 <h3 align="center">A passionate software engineer from India.I work in a corporate anc</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
