@@ -1,0 +1,26 @@
+Basic Linux commands:-
+----------------------------------------------------------------------------
+Touch :- is Basically used for create a file
+vi filename:-  is Basically used for create a file and along with that we can insert the content inside the file at the same time
+mkdir dirname:- is Basically used for create a directory
+cd :- is used to change the directory
+mv :- is used to rename the file
+cp :- is used to copy the files from one file to another file
+rm :- to remove a file or directory
+rm -f :- to remove a file forcefully
+ls - ltr:- this command is used to see the all information about the file like, owner of the file, group id of the file, permissions, and all
+
+memory and cpu informations commands:-
+-------------------------------------------------------------------------------
+free -g :- using this command we can the memory of the laptop
+free :- using this command we can see the information about the memory
+nproc :- it is basically is used to see the no of cpu's that are present
+df -h :- to see the disk of our system
+top :- this command is basically is used to see all the information about the memory,disk,cpu
+
+shell script:-
+----------------------------------
+#!/bin/bash ;- This is known as shebang in shell script
+
+
+
