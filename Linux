@@ -21,6 +21,13 @@ top :- this command is basically is used to see all the information about the me
 shell script:-
 ----------------------------------
 #!/bin/bash ;- This is known as shebang in shell script
+ps -ef : To see all the processes 
+ps : To see only the running processes
+ps -ef | grep "searchword" : to find the particular process with all the information
+ps -ef | grep "searchword" | awk -F " " '{print $coloum number}' : awk command is basically is used out for the filter the output
+curl url : curl is basically is used to retriew any type of data into the terminal from internet
+
+
 
 
 
